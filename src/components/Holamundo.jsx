@@ -4,7 +4,6 @@ const Holamundo = (props) => {
         <section>
             <h1>Hello word!!</h1>
             <h2>Hello {props.myfriend}</h2>
-            
         </section>
 );
 };
