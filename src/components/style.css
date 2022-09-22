@@ -1,0 +1,11 @@
+section{
+    text-align: center;
+    background-color: grey;
+}
+button{
+    background-color:coral;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+}

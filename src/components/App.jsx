@@ -1,11 +1,17 @@
 import Holamundo from "./Holamundo";
+import Msj from "./Msj";
+import './style.css';
 
 function App() {
   const friend="my friend";
 
 
   return (
-    <Holamundo myfriend={friend}/>
+    <section>
+      <Holamundo myfriend={friend}/>
+      <Msj></Msj>
+    </section>
+    
   )
 }
 
